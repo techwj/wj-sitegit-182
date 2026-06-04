@@ -1,0 +1,59 @@
+{
+  "siteId": "study-room-storage-books-documents-stationery",
+  "generatedAt": "2026-06-04T11:34:58.929811",
+  "categories": [
+    "beginner-study-room-storage-books-documents-stationery",
+    "advanced-study-room-storage-books-documents-stationery",
+    "tips-study-room-storage-books-documents-stationery",
+    "history-study-room-storage-books-documents-stationery",
+    "trending-study-room-storage-books-documents-stationery",
+    "tutorials-study-room-storage-books-documents-stationery"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-study-room-storage-books-documents-stationery",
+      "category_name": "Beginner Study Room Storage Books Documents Stationery"
+    },
+    {
+      "category_slug": "advanced-study-room-storage-books-documents-stationery",
+      "category_name": "Advanced Study Room Storage Books Documents Stationery"
+    },
+    {
+      "category_slug": "tips-study-room-storage-books-documents-stationery",
+      "category_name": "Study Room Storage Books Documents Stationery Tips"
+    },
+    {
+      "category_slug": "history-study-room-storage-books-documents-stationery",
+      "category_name": "Study Room Storage Books Documents Stationery History"
+    },
+    {
+      "category_slug": "trending-study-room-storage-books-documents-stationery",
+      "category_name": "Trending Study Room Storage Books Documents Stationery"
+    },
+    {
+      "category_slug": "tutorials-study-room-storage-books-documents-stationery",
+      "category_name": "Study Room Storage Books Documents Stationery Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "study-room-storage-books-documents-stationery",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Study Room Storage Books Documents Stationery Central",
+    "articles_per_row": 1
+  }
+}
